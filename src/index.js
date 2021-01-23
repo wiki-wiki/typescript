@@ -1,0 +1,1 @@
+var helo = "hello typescrit";
